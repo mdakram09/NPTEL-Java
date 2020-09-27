@@ -16,7 +16,7 @@ public class sumofthree {
     double c= sc.nextDouble();
 
     System.out.print("Please enter the value of str : ");
-    String stro=sc.nextLine();
+    String stro=sc.next();
 
 
     double sum=a+b+c;
